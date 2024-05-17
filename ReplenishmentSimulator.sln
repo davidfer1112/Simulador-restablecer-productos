@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReplenishmentSimulator", "ReplenishmentSimulator.csproj", "{165A7A3A-A261-497F-9755-965B7C9D1146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{165A7A3A-A261-497F-9755-965B7C9D1146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{165A7A3A-A261-497F-9755-965B7C9D1146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{165A7A3A-A261-497F-9755-965B7C9D1146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{165A7A3A-A261-497F-9755-965B7C9D1146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D48B4C26-7883-4EE4-A8F2-B2C0AEDDEF87}
+	EndGlobalSection
+EndGlobal
